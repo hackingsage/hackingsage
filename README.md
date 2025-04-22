@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Arul Tripathi
 
-<!--
-**hackingsage/hackingsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about building AI systems that solve real-world scientific problems. My work lies at the intersection of Machine Learning, Quantum Computing, and Applied Mathematics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research & Projects
+
+### 🧠 Quantum Transformers
+- **Quantum Transformers with Variational Quantum Circuits**
+- A hybrid model combining quantum circuits with deep learning attention mechanisms for physics simulations and learning tasks.
+- [GitHub Repo](https://github.com/hackingsage/Quantum-Transformer)
+
+### 📈 Physics-Informed Neural Networks (PINNs)
+- **Solving PDEs using PINNs**
+- Uses deep learning with embedded physics to solve the Schrödinger equation.
+- [GitHub Repo](https://github.com/hackingsage/Physics-Informed-Network-PDE)
+
+### 🧩 GNNs for Scientific Computing
+- **Graph Deep Learning for PDEs (GDL_PDE)**
+- Models and approximates high-dimensional Partial Differential Equations using Graph Neural Networks.
+- Focuses on encoding complex spatial domains as graphs and solving physical problems through message-passing frameworks.
+- [GitHub Repo](https://github.com/hackingsage/GDL_PDE)
+
+### 🧱 Neural Network Library
+- Built a custom neural network framework from scratch using NumPy.
+- Implements forward/backward propagation, loss functions, gradient descent, and common activation functions.
+- [GitHub Repo](https://github.com/hackingsage/Neural-Network-lib)
+
+### 🧵 Quantum Self-Attention
+- Custom implementation of multi-head self-attention with variational quantum circuits.
+- Explores how quantum entanglement can be used in Transformer-style architectures for efficient modeling.
+
+### 🖥️ OS-Level & Low-Level Programming
+- **Assembly Practice Projects**
+- Hands-on explorations into x86 Assembly and systems-level programming.
+- [GitHub Repo](https://github.com/hackingsage/Assembly)
+
+### 📦 Deep Learning Classifier
+- A custom neural network classifier project with backpropagation and various activation functions.
+- Implements classification from scratch on basic datasets.
+- [GitHub Repo](https://github.com/hackingsage/Classifier)
+
+---
+
+## 🛠 Technical Highlights
+- 🧮 Mathematics: PDEs, Linear Algebra, Functional Analysis
+- 🧠 Deep Learning: PyTorch, TensorFlow, NumPy (custom frameworks)
+- ⚛️ Quantum Computing: Qiskit, Variational Circuits, Quantum Feature Maps
+- 🧑‍💻 Programming: Python, C, C++, JavaScript, Assembly (basic)
+- 🧰 Tools: Git, Jupyter, LaTeX, GitHub Actions, Docker (basic)
+
+---
+
+## 📬 Let's Connect!
+- 📧 Email: arultripathi@gmail.com
+- 🌐 Website: [Coming Soon]
+- 🔗 LinkedIn: https://www.linkedin.com/in/arul-tripathi/
+
+> “The reward of the journey is not the destination—but the growth that happens along the way.”
