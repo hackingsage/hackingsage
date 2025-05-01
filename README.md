@@ -41,6 +41,12 @@ Welcome to my GitHub! I'm passionate about building AI systems that solve real-w
 - Implements classification from scratch on basic datasets.
 - [GitHub Repo](https://github.com/hackingsage/Classifier)
 
+###🚀 ArulOS
+- A complete x86 Operating System built from scratch in C and Assembly.  
+- Includes a custom shell, filesystem, text editor, calculator, command history, tab completion, and clean shutdown
+- all packed in a bootable ISO via GRUB.
+- [GitHub Repo](https://github.com/hackingsage/ArulOS)
+
 ---
 
 ## 🛠 Technical Highlights
