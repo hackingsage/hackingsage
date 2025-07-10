@@ -16,12 +16,6 @@ Welcome to my GitHub! I'm passionate about building AI systems that solve real-w
 - Uses deep learning with embedded physics to solve the Schrödinger equation.
 - [GitHub Repo](https://github.com/hackingsage/Physics-Informed-Network-PDE)
 
-### 🧩 GNNs for Scientific Computing
-- **Graph Deep Learning for PDEs (GDL_PDE)**
-- Models and approximates high-dimensional Partial Differential Equations using Graph Neural Networks.
-- Focuses on encoding complex spatial domains as graphs and solving physical problems through message-passing frameworks.
-- [GitHub Repo](https://github.com/hackingsage/GDL_PDE)
-
 ### 🧱 Neural Network Library
 - Built a custom neural network framework from scratch using NumPy.
 - Implements forward/backward propagation, loss functions, gradient descent, and common activation functions.
