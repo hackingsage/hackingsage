@@ -6,11 +6,6 @@ Welcome to my GitHub! I'm passionate about building AI systems that solve real-w
 
 ## 🔬 Research & Projects
 
-### 🧠 Quantum Transformers
-- **Quantum Transformers with Variational Quantum Circuits**
-- A hybrid model combining quantum circuits with deep learning attention mechanisms for physics simulations and learning tasks.
-- [GitHub Repo](https://github.com/hackingsage/Quantum-Transformer)
-
 ### 📈 Physics-Informed Neural Networks (PINNs)
 - **Solving PDEs using PINNs**
 - Uses deep learning with embedded physics to solve the Schrödinger equation.
@@ -20,10 +15,6 @@ Welcome to my GitHub! I'm passionate about building AI systems that solve real-w
 - Built a custom neural network framework from scratch using NumPy.
 - Implements forward/backward propagation, loss functions, gradient descent, and common activation functions.
 - [GitHub Repo](https://github.com/hackingsage/Neural-Network-lib)
-
-### 🧵 Quantum Self-Attention
-- Custom implementation of multi-head self-attention with variational quantum circuits.
-- Explores how quantum entanglement can be used in Transformer-style architectures for efficient modeling.
 
 ### 🖥️ OS-Level & Low-Level Programming
 - **Assembly Practice Projects**
