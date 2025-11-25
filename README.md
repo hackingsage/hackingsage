@@ -32,10 +32,17 @@ Welcome to my GitHub! I'm passionate about building AI systems that solve real-w
 - all packed in a bootable ISO via GRUB.
 - [GitHub Repo](https://github.com/hackingsage/ArulOS)
 
+### 🚀 Quant Trading Simulator
+- A C++-based quantitative trading simulator: featuring a matching engine, synthetic market data generator, and a market-making bot  
+- Includes a C++ backend( matching engine + market simulator + bot + TCP servers).
+- Includes a Node.js bridge that connects the backend to a WebSocket interface.
+- React WebUI
+- [GitHub Repo](https://github.com/hackingsage/Quant-Trading-Simulator.git)
+
 ---
 
 ## 🛠 Technical Highlights
-- 🧮 Mathematics: PDEs, Linear Algebra, Functional Analysis
+- 🧮 Mathematics: PDEs, Linear Algebra, Stochastic Calculus, Probability and Statistics, Calculus
 - 🧠 Deep Learning: PyTorch, TensorFlow, NumPy (custom frameworks)
 - ⚛️ Quantum Computing: Qiskit, Variational Circuits, Quantum Feature Maps
 - 🧑‍💻 Programming: Python, C, C++, JavaScript, Assembly (basic)
