@@ -1,58 +1,46 @@
-# 👋 Hi, I'm Arul Tripathi
+# 👋 Hi, I’m Arul Tripathi — aka hackingsage
 
-Welcome to my GitHub! I'm passionate about building AI systems that solve real-world scientific problems. My work lies at the intersection of Machine Learning, Quantum Computing, and Applied Mathematics.
-
----
-
-## 🔬 Research & Projects
-
-### 📈 Physics-Informed Neural Networks (PINNs)
-- **Solving PDEs using PINNs**
-- Uses deep learning with embedded physics to solve the Schrödinger equation.
-- [GitHub Repo](https://github.com/hackingsage/Physics-Informed-Network-PDE)
-
-### 🧱 Neural Network Library
-- Built a custom neural network framework from scratch using NumPy.
-- Implements forward/backward propagation, loss functions, gradient descent, and common activation functions.
-- [GitHub Repo](https://github.com/hackingsage/Neural-Network-lib)
-
-### 🖥️ OS-Level & Low-Level Programming
-- **Assembly Practice Projects**
-- Hands-on explorations into x86 Assembly and systems-level programming.
-- [GitHub Repo](https://github.com/hackingsage/Assembly)
-
-### 📦 Deep Learning Classifier
-- A custom neural network classifier project with backpropagation and various activation functions.
-- Implements classification from scratch on basic datasets.
-- [GitHub Repo](https://github.com/hackingsage/Classifier)
-
-### 🚀 ArulOS
-- A complete x86 Operating System built from scratch in C and Assembly.  
-- Includes a custom shell, filesystem, text editor, calculator, command history, tab completion, and clean shutdown
-- all packed in a bootable ISO via GRUB.
-- [GitHub Repo](https://github.com/hackingsage/ArulOS)
-
-### 🚀 Quant Trading Simulator
-- A C++-based quantitative trading simulator: featuring a matching engine, synthetic market data generator, and a market-making bot  
-- Includes a C++ backend( matching engine + market simulator + bot + TCP servers).
-- Includes a Node.js bridge that connects the backend to a WebSocket interface.
-- React WebUI
-- [GitHub Repo](https://github.com/hackingsage/Quant-Trading-Simulator.git)
+## 🔭 What I'm All About  
+I build things from the ground up from low-level OS kernels to high-level ML and simulation systems.  
+I believe in deeply understanding systems mathematics, algorithms, hardware, and abstractions and then building clean, working solutions that reflect that understanding.
 
 ---
 
-## 🛠 Technical Highlights
+## 🌟 Selected Projects  
+
+| Project | Description |
+|--------|-------------|
+| **ArulOS** | A complete 32-bit x86 operating system written in **C + Assembly**. Includes a custom shell, filesystem, text editor, calculator, command history, and tab-completion. Boots via GRUB. A deep dive into OS internals and low-level design. |
+| **Schrodinger-PINN** | A Physics-Informed Neural Network that solves the **Schrödinger equation** by embedding PDE constraints inside the loss function. Explores the intersection of mathematical physics and ML. |
+| **Neural-Network-lib** | A minimal deep-learning framework built entirely with **NumPy** — manual forward/backward propagation, gradients, activations, and optimization loops. A fundamentals-first study of neural networks. |
+| **Classifier** | A custom ML classifier built fully from scratch: preprocessing → model → training → evaluation. Focuses on understanding model behavior beyond black-box ML frameworks. |
+| **Quant-Trading-Simulator** | A multi-component quantitative trading simulation system: **C++ matching engine**, market-making bot, Node.js data bridge, and a React dashboard. Demonstrates simulation engineering and multi-language system design. |
+| **CSES Problem Set** | A structured set of solutions to the **CSES Problem Set**. Strengthens algorithms, data structures, complexity analysis, and competitive-programming thought foundational for systems, ML, and quant work. |
+| **Assembly Projects** | A collection of x86 assembly experiments exploring registers, memory layout, syscall flow, and stack mechanics. Reflects deep interest in low-level architecture. |
+
+---
+
+## 🛠️ What I Work On
+
+- **Operating Systems & Low-Level Programming**  
+- **Machine Learning & Scientific Computing**  
+- **Simulations & Quantitative Models**  
+- **Algorithms & Competitive Programming**  
+- **Full-stack, multi-language systems**
+- **Pure/Applied Mathematics**
+
+---
+
+## 🧰 Techincal Highlights        
 - 🧮 Mathematics: PDEs, Linear Algebra, Stochastic Calculus, Probability and Statistics, Calculus
 - 🧠 Deep Learning: PyTorch, TensorFlow, NumPy (custom frameworks)
-- ⚛️ Quantum Computing: Qiskit, Variational Circuits, Quantum Feature Maps
-- 🧑‍💻 Programming: Python, C, C++, JavaScript, Assembly (basic)
+- 🧑‍💻 Languages: Python, C, C++, JavaScript, Assembly (basic)
 - 🧰 Tools: Git, Jupyter, LaTeX, GitHub Actions, Docker (basic)
 
 ---
 
-## 📬 Let's Connect!
-- 📧 Email: arultripathi@gmail.com
-- 🌐 Website: [Coming Soon]
-- 🔗 LinkedIn: https://www.linkedin.com/in/arul-tripathi/
+## 📬 Let’s Connect  
+- **LinkedIn:** https://www.linkedin.com/in/arul-tripathi/  
+- **Email:** arultripathi@gmail.com  
 
-> “The reward of the journey is not the destination—but the growth that happens along the way.”
+> “True mastery comes from understanding the system — not the abstraction.”
