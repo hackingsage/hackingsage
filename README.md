@@ -16,7 +16,7 @@ I believe in deeply understanding systems mathematics, algorithms, hardware, and
 | **Classifier** | A custom ML classifier built fully from scratch: preprocessing → model → training → evaluation. Focuses on understanding model behavior beyond black-box ML frameworks. |
 | **Quant-Trading-Simulator** | A multi-component quantitative trading simulation system: **C++ matching engine**, market-making bot, Node.js data bridge, and a React dashboard. Demonstrates simulation engineering and multi-language system design. |
 | **CSES Problem Set** | A structured set of solutions to the **CSES Problem Set**. Strengthens algorithms, data structures, complexity analysis, and competitive-programming thought foundational for systems, ML, and quant work. |
-| **Assembly Projects** | A collection of x86 assembly experiments exploring registers, memory layout, syscall flow, and stack mechanics. Reflects deep interest in low-level architecture. |
+| **AI Powered Code Review** | A **local, production-oriented AI-assisted code review tool** integrated into **VS Code**. Combines deterministic **AST-based static analysis** with optional **AI explanations and safe, human-in-the-loop fixes**. Designed to be fast, offline, and conservative AI never auto-modifies code. Focuses on security, performance, logic, complexity, and maintainability. |
 
 ---
 
