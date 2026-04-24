@@ -1,46 +1,119 @@
 # 👋 Hi, I’m Arul Tripathi — aka hackingsage
 
-## 🔭 What I'm All About  
-I build things from the ground up from low-level OS kernels to high-level ML and simulation systems.  
-I believe in deeply understanding systems mathematics, algorithms, hardware, and abstractions and then building clean, working solutions that reflect that understanding.
+I build systems from the ground up — from low-level OS kernels to high-level AI and distributed applications.
+
+I focus on deeply understanding:
+- systems (OS, memory, networking)
+- algorithms & mathematics
+- machine learning internals
+- performance & real-world engineering tradeoffs
+
+Then I turn that understanding into clean, working systems.
 
 ---
 
-## 🌟 Selected Projects  
+## 🚀 What I Work On
 
-| Project | Description |
-|--------|-------------|
-| **ArulOS** | A complete 32-bit x86 operating system written in **C + Assembly**. Includes a custom shell, filesystem, text editor, calculator, command history, and tab-completion. Boots via GRUB. A deep dive into OS internals and low-level design. |
-| **Schrodinger-PINN** | A Physics-Informed Neural Network that solves the **Schrödinger equation** by embedding PDE constraints inside the loss function. Explores the intersection of mathematical physics and ML. |
-| **Neural-Network-lib** | A minimal deep-learning framework built entirely with **NumPy** — manual forward/backward propagation, gradients, activations, and optimization loops. A fundamentals-first study of neural networks. |
-| **Classifier** | A custom ML classifier built fully from scratch: preprocessing → model → training → evaluation. Focuses on understanding model behavior beyond black-box ML frameworks. |
-| **Quant-Trading-Simulator** | A multi-component quantitative trading simulation system: **C++ matching engine**, market-making bot, Node.js data bridge, and a React dashboard. Demonstrates simulation engineering and multi-language system design. |
-| **CSES Problem Set** | A structured set of solutions to the **CSES Problem Set**. Strengthens algorithms, data structures, complexity analysis, and competitive-programming thought foundational for systems, ML, and quant work. |
-| **AI Powered Code Review** | A **local, production-oriented AI-assisted code review tool** integrated into **VS Code**. Combines deterministic **AST-based static analysis** with optional **AI explanations and safe, human-in-the-loop fixes**. Designed to be fast, offline, and conservative AI never auto-modifies code. Focuses on security, performance, logic, complexity, and maintainability. |
+- Operating Systems & Low-Level Programming  
+- Machine Learning & AI Systems  
+- Quantitative Finance & Simulation  
+- Distributed Systems & Backend Engineering  
+- Algorithms & Competitive Programming  
+- Full-stack, multi-language systems  
 
 ---
 
-## 🛠️ What I Work On
+## 🧠 Selected Projects
 
-- **Operating Systems & Low-Level Programming**  
-- **Machine Learning & Scientific Computing**  
-- **Simulations & Quantitative Models**  
-- **Algorithms & Competitive Programming**  
-- **Full-stack, multi-language systems**
-- **Pure/Applied Mathematics**
+### 🧩 ArulOS — 32-bit Operating System
+**C, Assembly, GRUB, QEMU**
 
----
-
-## 🧰 Techincal Highlights        
-- 🧮 Mathematics: PDEs, Linear Algebra, Stochastic Calculus, Probability and Statistics, Calculus
-- 🧠 Deep Learning: PyTorch, TensorFlow, NumPy (custom frameworks)
-- 🧑‍💻 Languages: Python, C, C++, JavaScript, Assembly (basic)
-- 🧰 Tools: Git, Jupyter, LaTeX, GitHub Actions, Docker (basic)
+- Built a bootable x86 OS from scratch  
+- Implemented kernel, shell, filesystem, drivers  
+- Features: command history, tab completion, text editor, calculator  
+- Deep dive into OS internals, memory, interrupts, hardware  
 
 ---
 
-## 📬 Let’s Connect  
-- **LinkedIn:** https://www.linkedin.com/in/arul-tripathi/  
-- **Email:** arultripathi@gmail.com  
+### 📈 Quant Trading Simulator
+**C++, Node.js, React, WebSockets**
 
-> “True mastery comes from understanding the system — not the abstraction.”
+- High-performance C++ matching engine (price-time priority order book)  
+- Synthetic market generator using stochastic processes  
+- Black-Scholes market-making bot with delta hedging  
+- Custom binary TCP protocol + WebSocket bridge  
+- Real-time dashboard (PnL, order book, trades, charts)  
+
+---
+
+### 🤖 Deep Research Agent
+**Python, FastAPI, LangGraph, Qdrant**
+
+- AI system simulating how engineers research unfamiliar topics  
+- Multi-step reasoning pipeline with memory + self-reflection  
+- Persistent semantic memory using vector DB  
+- Structured outputs focused on tradeoffs and system thinking  
+
+---
+
+### 🏗️ CareerFlow AI (Full-stack System)
+**Go, Python, React, PostgreSQL, Docker**
+
+- Job application intelligence platform  
+- Resume ↔ job description analysis  
+- Tracks applications + analytics dashboard  
+- Designed with real-world engineering concerns:  
+  auth, persistence, service boundaries, CI/CD  
+
+---
+
+### 🧠 Neural Network Library (From Scratch)
+**Python, NumPy**
+
+- Built a minimal deep learning framework from scratch  
+- Implemented forward/backprop, optimizers, activations  
+- Focus on understanding internals beyond frameworks  
+
+---
+
+### 🛠️ AI Code Review Tool
+**Python, AST Analysis**
+
+- Combines deterministic static analysis with AI suggestions  
+- Designed for reliability-first engineering workflows  
+- Avoids blind LLM outputs — prioritizes correctness  
+
+---
+
+## ⚙️ Technical Highlights
+
+- **Systems:** OS, memory management, networking, low-level C/C++  
+- **Backend:** FastAPI, Node.js, Go, WebSockets, APIs  
+- **Frontend:** React  
+- **AI/ML:** PyTorch, Transformers, RAG, LLM agents  
+- **Infra:** Docker, PostgreSQL, Qdrant, CI/CD  
+- **Tools:** Linux, Git, LaTeX, Jupyter  
+
+---
+
+## 🏆 Achievements
+
+- Codeforces Rating: 1700+  
+- Strong foundation in algorithms, systems, and mathematical modeling  
+
+---
+
+## 🎯 Interests
+
+- Systems programming & low-latency engineering  
+- Quantitative finance & trading systems  
+- AI systems & agentic architectures  
+- Distributed systems & infrastructure  
+- Building real, production-grade software  
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/hackingsage  
+- LinkedIn: https://linkedin.com/in/arul-tripathi  
